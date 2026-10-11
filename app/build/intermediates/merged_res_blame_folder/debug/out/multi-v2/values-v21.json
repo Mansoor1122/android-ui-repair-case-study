@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "689",
+                        "endColumns": "79",
+                        "endOffsets": "764"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    }
+                }
+            ]
+        }
+    ]
+}

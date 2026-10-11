@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "726",
+                        "endColumns": "57",
+                        "endOffsets": "779"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "277",
+                        "endColumns": "57",
+                        "endOffsets": "330"
+                    }
+                },
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "761,819",
+                        "endColumns": "57,44",
+                        "endOffsets": "814,859"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,44",
+                        "endOffsets": "108,153"
+                    }
+                },
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "689,747",
+                        "endColumns": "57,60",
+                        "endOffsets": "742,803"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,216",
+                        "endColumns": "57,60",
+                        "endOffsets": "211,272"
+                    }
+                }
+            ]
+        }
+    ]
+}

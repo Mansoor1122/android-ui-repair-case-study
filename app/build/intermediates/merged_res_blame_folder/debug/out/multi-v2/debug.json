@@ -1,0 +1,126 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "726",
+                        "endColumns": "57",
+                        "endOffsets": "779"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "277",
+                        "endColumns": "57",
+                        "endOffsets": "330"
+                    }
+                },
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "761,819",
+                        "endColumns": "57,44",
+                        "endOffsets": "814,859"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,44",
+                        "endOffsets": "108,153"
+                    }
+                },
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "17,18",
+                        "startColumns": "4,4",
+                        "startOffsets": "689,747",
+                        "endColumns": "57,60",
+                        "endOffsets": "742,803"
+                    },
+                    "to": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "158,216",
+                        "endColumns": "57,60",
+                        "endOffsets": "211,272"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/res/merged/debug/values-v13_values-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values-v13/styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "661",
+                        "endColumns": "74",
+                        "endOffsets": "731"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "74",
+                        "endOffsets": "125"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "689",
+                        "endColumns": "79",
+                        "endOffsets": "764"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "79",
+                        "endOffsets": "130"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "964",
+                        "endColumns": "57",
+                        "endOffsets": "1017"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

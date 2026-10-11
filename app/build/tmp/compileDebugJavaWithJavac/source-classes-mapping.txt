@@ -1,0 +1,4 @@
+eduandroid/MainActivity.java
+ eduandroid.MainActivity
+eduandroid/BuildConfig.java
+ eduandroid.BuildConfig

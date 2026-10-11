@@ -1,0 +1,56 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3~ Copyright (C) 2015 The Android Open Source Project
+4~
+5~ Licensed under the Apache License, Version 2.0 (the "License");
+6~ you may not use this file except in compliance with the License.
+7~ You may obtain a copy of the License at
+8~
+9~   http://www.apache.org/licenses/LICENSE-2.0
+10~
+11~ Unless required by applicable law or agreed to in writing, software
+12~ distributed under the License is distributed on an "AS IS" BASIS,
+13~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14~ See the License for the specific language governing permissions and
+15~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="eduandroid.harness"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="18"
+23-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="30" />
+24-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+25
+26    <application
+26-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:21:5-33:19
+27        android:debuggable="true"
+28        android:icon="@drawable/ic_launcher"
+28-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:22:9-45
+29        android:label="@string/app_name"
+29-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:23:9-41
+30        android:theme="@style/AppTheme" >
+30-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:24:9-40
+31        <activity
+31-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:25:9-32:20
+32            android:name="eduandroid.MainActivity"
+32-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:26:13-51
+33            android:label="@string/app_name" >
+33-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:27:13-45
+34            <intent-filter>
+34-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:28:13-31:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:29:17-69
+35-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:29:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:30:17-77
+37-->/Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:30:27-74
+38            </intent-filter>
+39        </activity>
+40    </application>
+41
+42</manifest>

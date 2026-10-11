@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+	package
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:19:5-25
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:1-35:12
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:21:5-33:19
+	android:label
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:22:9-45
+	android:theme
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:24:9-40
+activity#eduandroid.MainActivity
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:25:9-32:20
+	android:label
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:26:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:28:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		ADDED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/apple/Documents/phd-alignment-projects/android-ui-repair/UI-Program-Repair-main/ReproducingScripts/app/reproducing_script_project/app/src/main/AndroidManifest.xml
